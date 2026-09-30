@@ -1932,7 +1932,9 @@
           "githubUrl": "https://github.com/indygreg/python-zstandard",
           "source": "build_file:requirements.txt"
         }
-      ]
+      ],
+      "repolex": "aggregate/repolex/4c06412c583855bf839b54c8b387f1dae21129c2/chunk-001.nq.gz",
+      "dep": "dep/4c06412c583855bf839b54c8b387f1dae21129c2.nq.gz"
     }
   ],
   "commit": "commit/commit.nq.gz",
