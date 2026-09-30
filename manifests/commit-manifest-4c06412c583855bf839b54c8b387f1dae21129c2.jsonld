@@ -1,0 +1,39 @@
+{
+  "@context": "https://repolex.ai/ontology/jsonld-context/repolex-context.jsonld",
+  "@id": "https://repolex.ai/r/Cognition-Labs/Synapse/commit/4c06412c583855bf839b54c8b387f1dae21129c2",
+  "@type": "git:Commit",
+  "git:hexsha": "4c06412c583855bf839b54c8b387f1dae21129c2",
+  "repolex:repository": {
+    "@id": "https://repolex.ai/r/Cognition-Labs/Synapse"
+  },
+  "repolex:graphFile": [
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "filetree",
+      "repolex:graphFilePath": "filetree/4c06412c583855bf839b54c8b387f1dae21129c2.nq.gz",
+      "repolex:graphFileSize": 27070
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "commit",
+      "repolex:graphFilePath": "commit/commit.nq.gz",
+      "repolex:graphFileSize": 8639
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "branch",
+      "repolex:graphFilePath": "branch/branch.nq.gz",
+      "repolex:graphFileSize": 414
+    },
+    {
+      "@type": "repolex:GraphFile",
+      "repolex:graphType": "tag",
+      "repolex:graphFilePath": "tag/tag.nq.gz",
+      "repolex:graphFileSize": 32
+    }
+  ],
+  "repolex:parseStatus": "metadata_complete",
+  "repolex:parsedAt": "2026-09-30T19:05:03.031416+00:00",
+  "repolex:parserVersion": "0.1.10",
+  "git:tagName": "main"
+}
