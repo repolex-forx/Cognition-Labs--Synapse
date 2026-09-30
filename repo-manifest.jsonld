@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/Cognition-Labs/Synapse/commit/4c06412c583855bf839b54c8b387f1dae21129c2",
       "git:hexsha": "4c06412c583855bf839b54c8b387f1dae21129c2",
-      "repolex:parseStatus": "metadata_complete",
+      "repolex:parseStatus": "ast_complete",
       "git:tagName": "main"
     }
   ]
